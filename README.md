@@ -1,16 +1,5 @@
 # finanstakip
 
-A new Flutter project.
+CE-Tracking, flutter ile geliştirilmiş firebase bulut tabanlı bir kişisel finans takip uygulamasıdır. Kullanıcı, aylık bütçesine göre harcamalarını, aylık düzenli ödediği abonelik servislerini kullanıcı dostu grafiksel bir arayüz ile düzenli bir şekilde takip edebilmektedir. Aynı zamanda bir bütçe hedefi belirleyerek, o hedef doğrultusunda bütçeden ayrılan pay oranı hesabı ile gerçek zamanlı hedef takibi yapabilmekte, geleceğe yatırım yapabilmektedir.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Not: Firebase bağlantısı tarafında güvenlikten ötürü bağlantı dosyaları kaldırılmıştır.
