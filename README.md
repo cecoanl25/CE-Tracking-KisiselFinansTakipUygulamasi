@@ -38,7 +38,6 @@ Ana sayfa ve birikim modülü gibi bazı temel ekranlar:
 
 ## 🔒 Güvenlik Notu
 
-Bu projede **Firebase bağlantı dosyaları** paylaşılmamıştır.  
-Projenin çalışabilmesi için kendi Firebase projenizi oluşturmanız ve gerekli konfigürasyonları tamamlamanız gerekmektedir.
+Bu projede güvenlik amacıyla özel **Firebase bağlantı dosyaları** paylaşılmamıştır.
 
 ---
