@@ -32,7 +32,7 @@ Ana sayfa ve birikim modülü gibi bazı temel ekranlar:
 - **Frontend:** Flutter SDK, Dart  
 - **Backend:** Firebase (Authentication, Firestore, Cloud Functions)  
 - **Platform:** Google Firebase (PaaS)  
-- **Ekstra:** Node.js (fonksiyonel hesaplamalar için), Firestore Security Rules
+- **Ekstra:** Node.js (fonksiyonel hesaplamalar için)
 
 ---
 
